@@ -6,4 +6,4 @@ how much we purchased on the market as an input stock exchange
 how much we sold from the stock that should reduce the stock
 
 **************************************************
-Technology used in this project are: Ajax, javascript, Gson and web Socket or Web Services.
+Technology used in this project are: Ajax, javascript, Json and web Socket or Web Services.
